@@ -25,7 +25,7 @@ a:hover {
 }
 
 .nav {
-  position: relative;
+  position: absolute;
   z-index: 2;
   background-color: #113c00;
 }
